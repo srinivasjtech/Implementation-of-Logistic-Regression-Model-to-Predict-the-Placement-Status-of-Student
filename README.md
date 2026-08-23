@@ -19,7 +19,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ## Program:
 ```py
 /*
-Program to implement the simple linear regression model for predicting the marks scored.
+Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by: Srinivas J
 RegisterNumber: 212225230276 
 */
